@@ -1,5 +1,5 @@
 ## Code to read, select and transform the Household Power Consumption Data
-## and create Plot 2
+## and create Plot 4
 
 ##Set the working directory
 setwd("~/Desktop/datasciencecoursera/Exploratory Data Analysis/week 1 assignment")
